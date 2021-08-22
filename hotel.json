@@ -1,0 +1,75 @@
+{
+  "hotelName": "Kempinski Hotel Bristol Berlin",
+  "address": "Kurfürstendamm 27, Charlottenburg-Wilmersdorf, 10719 Berlin, Germany",
+  "reviewPoints": 8.3,
+  "numberOfReviews": 1401,
+  "description": "Stay in the heart of Berlin\n\n– \nShow map\n\n\n\n\nThis 5-star hotel on Berlin’s Kurfürstendamm shopping street offers elegant rooms, an indoor pool and great public transport links. It is 600 metres from the Gedächtniskirche Church and Berlin Zoo.\nKempinski Hotel Bristol Berlin offers air-conditioned rooms with large windows, modern bathrooms and international TV channels. Bathrobes are provided. Free WiFi is available in all areas and high-speed WiFi access can be booked at an additional cost.\nGourmet cuisine is served in the popular Kempinski Grill. Reinhard's brasserie offer light cuisine and a terrace overlooking Kurfürstendamm. Guests can enjoy drinks in the Gobelin Halle lounge or in the Bristol Bar.\nKempinski Bristol Berlin’s spa includes a sauna, steam room and gym. Massages and beauty treatments can also be booked here. The hotel's business centre can be used free of charge.\nUhlandstraße Underground Station is just outside the Kempinski’s front door. The KaDeWe shopping mall is 2 stops away.",
+  "roomCategories": [
+    {
+      "Capacity": "Standard occupancy: 2",
+      "RoomType": "Suite with Balcony"
+    },
+    {
+      "Capacity": "Standard occupancy: 2",
+      "RoomType": "Classic Double or Twin Room"
+    },
+    {
+      "Capacity": "Standard occupancy: 3",
+      "RoomType": "Superior Double or Twin Room"
+    },
+    {
+      "Capacity": "Standard occupancy: 2",
+      "RoomType": "Deluxe Double Room"
+    },
+    {
+      "Capacity": "Standard occupancy: 2",
+      "RoomType": "Deluxe Business Suite"
+    },
+    {
+      "Capacity": "Standard occupancy: 3",
+      "RoomType": "Junior Suite"
+    },
+    {
+      "Capacity": "Standard occupancy: 3",
+      "RoomType": "Family Room"
+    }
+  ],
+  "alternativeHotels": [
+    {
+      "Name": "Hotel Adlon Kempinski Berlin",
+      "Link": "http://www.booking.com/hotel/de/adlon-kempinski-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+      "Image": "./Kempinski Hotel Bristol Berlin, Germany - Booking.com_files/16596932.jpg",
+      "Description": "The quintessence of luxury lodging, the Adlon is a legendary 5-star hotel situated in Berlin’s Mitte, beside the Brandenburg Gate.",
+      "Message": "There are 21 people looking at this hotel.",
+      "ReviewCount": 1933,
+      "ReviewPoints": 9.4
+    },
+    {
+      "Name": "Grand Hyatt Berlin",
+      "Link": "http://www.booking.com/hotel/de/grand-hyatt-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+      "Image": "./Kempinski Hotel Bristol Berlin, Germany - Booking.com_files/11424979.jpg",
+      "Description": "This 5-star hotel has a large rooftop spa and pool with spectacular views of Berlin.",
+      "Message": "There are 8 people looking at this hotel.",
+      "ReviewCount": 1460,
+      "ReviewPoints": 9.1
+    },
+    {
+      "Name": "Sofitel Berlin Kurfürstendamm",
+      "Link": "http://www.booking.com/hotel/de/sofitelhotelberlin-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+      "Image": "./Kempinski Hotel Bristol Berlin, Germany - Booking.com_files/43229959.jpg",
+      "Description": "Just 100 metres from the Kurfürstendamm boulevard, this 5-star design hotel offers air-conditioned rooms, free Wi-Fi and a French restaurant. Guests have free use of the spa and gym.",
+      "Message": "There are 4 people looking at this hotel.",
+      "ReviewCount": 1497,
+      "ReviewPoints": 9.0
+    },
+    {
+      "Name": "Hilton Berlin",
+      "Link": "http://www.booking.com/hotel/de/hilton-berlin.en-gb.html?label=gen173nr-15CAsoO0IWa2VtcGluc2tpYnJpc3RvbGJlcmxpbkguYgVub3JlZmg7iAEBmAEuuAEEyAEE2AED6AEB;sid=76794d5ed9a9673c09a746b2d3e1a5bd;dcid=4;fs=1;shid=60664;",
+      "Image": "./Kempinski Hotel Bristol Berlin, Germany - Booking.com_files/14078553.jpg",
+      "Description": "This centrally located hotel on Berlin’s historic Gendarmenmarkt Square features luxurious rooms, an exclusive spa and 2 restaurants with stunning views of the German Cathedral.",
+      "Message": "There are 6 people looking at this hotel.",
+      "ReviewCount": 2700,
+      "ReviewPoints": 8.5
+    }
+  ]
+}
