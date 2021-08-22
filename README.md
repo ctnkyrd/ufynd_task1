@@ -23,3 +23,5 @@ dotnet build && dotnet test
 
 dotnet run -p task1.app/task1.app.csproj
 ```
+## Output
+Output file: hotel.json
