@@ -15,6 +15,9 @@ python3 -m http.server 8000
 * task1.test: .Net NUnit Test Project
 
 ## Build & Run
+
+Before building the project, appsettings.json (task1.app/appsettings.json) needs to edited for the scrapping environment. Url parameter should be set to resource address.
+
 ```
 dotnet build && dotnet test
 
